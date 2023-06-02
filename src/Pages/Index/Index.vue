@@ -2,7 +2,7 @@
     <div class="IndexPage">
         <nav>
             <a class="logo" href="#"><b>OPS</b>/OpenPromptStudio</a>
-            <a class="icon-link" href="#" target="_blank">
+            <a class="icon-link" href="#">
                 <Icon icon="radix-icons:github-logo"
             /></a>
 
@@ -26,7 +26,7 @@
             <PromptDict />
         </section>
         <footer>
-            <a href="#" target="_blank">
+            <a href="#">
                 <img class="icon" src="/icon.svg" /> OpenPromptStudio / v{{ version }}
             </a>
         </footer>

@@ -1,8 +1,8 @@
 <template>
     <div class="IndexPage">
         <nav>
-            <a class="logo" href="https://github.com/Moonvy/OpenPromptStudio"><b>OPS</b>/OpenPromptStudio</a>
-            <a class="icon-link" href="https://github.com/Moonvy/OpenPromptStudio" target="_blank">
+            <a class="logo" href="#"><b>OPS</b>/OpenPromptStudio</a>
+            <a class="icon-link" href="#" target="_blank">
                 <Icon icon="radix-icons:github-logo"
             /></a>
 
@@ -16,7 +16,7 @@
             <div class="title">
                 <Icon icon="mingcute:book-4-fill" />
                 提示词词典
-                <!--                <a class="github-dict" href="https://github.com/Moonvy/OpenPromptStudio" target="_blank">-->
+                <!--                <a class="github-dict" href="#" target="_blank">-->
                 <!--                    <Icon icon="radix-icons:github-logo" />一起维护词典</a-->
                 <!--                >-->
                 <button class="icon close-button" @click="toggleDictPad(false)">
@@ -26,10 +26,10 @@
             <PromptDict />
         </section>
         <footer>
-            <a href="https://github.com/Moonvy/OpenPromptStudio" target="_blank">
+            <a href="#" target="_blank">
                 <img class="icon" src="/icon.svg" /> OpenPromptStudio / v{{ version }} /
             </a>
-            <a href="https://moonvy.com/?homepage"> made by <img src="./assets/logo_full_cn.svg" /></a>
+            <a href="#"> made by <img src="./assets/logo_full_cn.svg" /></a>
         </footer>
     </div>
 </template>

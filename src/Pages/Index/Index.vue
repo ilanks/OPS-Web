@@ -27,7 +27,7 @@
         </section>
         <footer>
             <a href="#" target="_blank">
-                <img class="icon" src="/icon.svg" /> OpenPromptStudio / v{{ version }} /
+                <img class="icon" src="/icon.svg" /> OpenPromptStudio / v{{ version }}
             </a>
         </footer>
     </div>
